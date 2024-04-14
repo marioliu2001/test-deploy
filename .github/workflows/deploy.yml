@@ -52,7 +52,7 @@ jobs:
 
       - name: Build with Script
         run: |
-          npm run github-build
+          npm run github:build
 #          npm run build # 或 pnpm build / yarn build / bun run build
           touch dist/.nojekyll
 
