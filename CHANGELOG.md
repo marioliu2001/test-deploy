@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.14](https://github.com/marioliu2001/test-deploy/compare/0.0.13...0.0.14) (2024-04-14)
+
+
+### 🔧 Continuous Integration | CI 配置
+
+* **deploy:** 更新自动化部署配置 ([3636e0b](https://github.com/marioliu2001/test-deploy/commit/3636e0b4971784ff435034a1a6a7a199850f2e91))
+
 ## [0.0.13](https://github.com/marioliu2001/test-deploy/compare/0.0.12...0.0.13) (2024-04-14)
 
 
