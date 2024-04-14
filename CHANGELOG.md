@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.4](https://github.com/marioliu2001/test-deploy/compare/0.0.3...0.0.4) (2024-04-14)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* **deploy:** 修复deploy无法部署3 ([fccc30d](https://github.com/marioliu2001/test-deploy/commit/fccc30d385ed494e77f0a3c2c0bb2a15b9635bbd))
+
 ## [0.0.3](https://github.com/marioliu2001/test-deploy/compare/0.0.2...0.0.3) (2024-04-14)
 
 
