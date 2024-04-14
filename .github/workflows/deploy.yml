@@ -42,12 +42,14 @@ jobs:
         with:
           node-version: 20
           cache: npm # 或 pnpm / yarn
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       # 安装依赖
       - name: Install dependencies
         run: npm ci # 或 pnpm install / yarn install / bun install
+
       - name: Build with Script
         run: |
           npm run github-build
