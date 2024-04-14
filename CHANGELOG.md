@@ -1,5 +1,13 @@
 # 变更日志
 
+## [0.0.18-alpha.0](https://github.com/marioliu2001/test-deploy/compare/0.0.16...0.0.18-alpha.0) (2024-04-14)
+
+
+### ✅ Tests | 测试
+
+* **deploy:** 测试预发布 ([eecb077](https://github.com/marioliu2001/test-deploy/commit/eecb0777d1b99ea069e0517912b09148b04aab06))
+* **deploy:** 测试预发布 ([849b8e5](https://github.com/marioliu2001/test-deploy/commit/849b8e59b3797c6e3c0ab486d18edb2cbecbe4ba))
+
 ## [0.0.17-alpha.0](https://github.com/marioliu2001/test-deploy/compare/0.0.16...0.0.17-alpha.0) (2024-04-14)
 
 
