@@ -50,9 +50,10 @@ jobs:
       - name: Install dependencies
         run: npm ci # 或 pnpm install / yarn install / bun install
 
+      # npm run build # 或 pnpm build / yarn build / bun run build
       - name: Build with Script
         run: |
-          npm run github:build 
+          npm run github-build
           touch dist/.nojekyll
 
       # 上传构建产物
