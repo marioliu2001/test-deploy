@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.16](https://github.com/marioliu2001/test-deploy/compare/0.0.15...0.0.16) (2024-04-14)
+
+
+### ✅ Tests | 测试
+
+* **deploy:** 测试部署npm ([9c8e910](https://github.com/marioliu2001/test-deploy/commit/9c8e910b90fce334247d779fac5b30d672721eb3))
+
 ## [0.0.15](https://github.com/marioliu2001/test-deploy/compare/0.0.14...0.0.15) (2024-04-14)
 
 
