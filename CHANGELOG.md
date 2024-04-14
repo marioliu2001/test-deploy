@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.11](https://github.com/marioliu2001/test-deploy/compare/0.0.10...0.0.11) (2024-04-14)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* **deploy:** 修复github deploy ([2fee578](https://github.com/marioliu2001/test-deploy/commit/2fee5787a6c415c2890a3df7d54520e3c13ad9f1))
+
 ## [0.0.10](https://github.com/marioliu2001/test-deploy/compare/0.0.9...0.0.10) (2024-04-14)
 
 
