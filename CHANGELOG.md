@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.21-0](https://github.com/marioliu2001/test-deploy/compare/0.0.20-0...0.0.21-0) (2024-04-14)
+
+
+### ✅ Tests | 测试
+
+* **deploy:** 测试预发布 ([256e843](https://github.com/marioliu2001/test-deploy/commit/256e843d82bcc2e35ac0f9d66eeb3818912f1bea))
+
 ## [0.0.20-0](https://github.com/marioliu2001/test-deploy/compare/0.0.19-alpha.0...0.0.20-0) (2024-04-14)
 
 
