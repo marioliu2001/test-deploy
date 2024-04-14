@@ -1,5 +1,13 @@
 # 变更日志
 
+## [0.0.9](https://github.com/marioliu2001/test-deploy/compare/0.0.8...0.0.9) (2024-04-14)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* **deploy:** 修复github deploy ([b9be3f3](https://github.com/marioliu2001/test-deploy/commit/b9be3f385edc7ad3596830fb2ba930de3093ef28))
+* **deploy:** 修复github deploy ([15ba4d7](https://github.com/marioliu2001/test-deploy/commit/15ba4d7d1fc3599e989938ba096131bacd98335d))
+
 ## [0.0.8](https://github.com/marioliu2001/test-deploy/compare/0.0.7...0.0.8) (2024-04-14)
 
 
