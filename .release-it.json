@@ -24,7 +24,7 @@
         ]
       },
       "infile": "CHANGELOG.md",
-      "ignoreRecommendedBump": false,
+      "ignoreRecommendedBump": true,
       "strictSemVer": true
     }
   },
