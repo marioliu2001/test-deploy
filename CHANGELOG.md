@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.3](https://github.com/marioliu2001/test-deploy/compare/0.0.2...0.0.3) (2024-04-14)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* **deploy:** 修复deploy无法部署2 ([9d3a525](https://github.com/marioliu2001/test-deploy/commit/9d3a525d2068bef0a0228fbdd6694ad8eeae937a))
+
 ## [0.0.2](https://github.com/marioliu2001/test-deploy/compare/0.0.1...0.0.2) (2024-04-14)
 
 
