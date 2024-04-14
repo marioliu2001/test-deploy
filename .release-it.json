@@ -1,0 +1,44 @@
+{
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "header": "# 变更日志",
+      "preset": {
+        "name": "conventionalcommits",
+        "types": [
+          { "type": "feat", "section": "✨ Features | 新功能" },
+          { "type": "fix", "section": "🐛 Bug Fixes | Bug 修复" },
+          { "type": "chore", "section": "🎫 Chores | 其他更新" },
+          { "type": "docs", "section": "📝 Documentation | 文档" },
+          { "type": "style", "section": "💄 Styles | 风格" },
+          { "type": "refactor", "section": "♻ Code Refactoring | 代码重构" },
+          { "type": "perf", "section": "⚡ Performance Improvements | 性能优化" },
+          { "type": "test", "section": "✅ Tests | 测试" },
+          { "type": "revert", "section": "⏪ Reverts | 回退" },
+          { "type": "build", "section": "👷‍ Build System | 构建" },
+          { "type": "ci", "section": "🔧 Continuous Integration | CI 配置" },
+          { "type": "config", "section": "🔨 CONFIG | 配置" },
+
+          { "type": "init", "section": "🎉 Init | 初始化" },
+          { "type": "update", "section": "🚀 update | 构建/工程依赖/工具升级" },
+          { "type": "tool", "section": "🚀 tool | 工具升级" }
+        ]
+      },
+      "infile": "CHANGELOG.md",
+      "ignoreRecommendedBump": false,
+      "strictSemVer": true
+    }
+  },
+  "git": {
+    "commitMessage": "chore: Release v${version}"
+  },
+  "github": {
+    "release": true,
+    "draft": false
+  },
+  "npm": {
+    "publish": false
+  },
+  "hooks": {
+    "after:bump": "echo 更新版本成功"
+  }
+}
