@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.29-alpha.4](https://github.com/marioliu2001/test-deploy/compare/0.0.29-alpha.3...0.0.29-alpha.4) (2024-04-15)
+
+
+### ✅ Tests | 测试
+
+* **deploy:** 测试预发布 ([657b4a0](https://github.com/marioliu2001/test-deploy/commit/657b4a0c95dffe6e688ccaaccf4c98b1c1fae42a))
+
 ## [0.0.29-alpha.3](https://github.com/marioliu2001/test-deploy/compare/0.0.29-alpha.2...0.0.29-alpha.3) (2024-04-14)
 
 
