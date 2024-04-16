@@ -1,5 +1,17 @@
 # 变更日志
 
+## [0.0.29-alpha.6](https://github.com/marioliu2001/test-deploy/compare/0.0.29-alpha.5...0.0.29-alpha.6) (2024-04-16)
+
+
+### ✨ Features | 新功能
+
+* **开发:** 开发分支 ([1fe6b3d](https://github.com/marioliu2001/test-deploy/commit/1fe6b3dd81204da4f662a2e4034c2503cdf86570))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* **修复:** 表现优异多加二分 ([a7b2a2e](https://github.com/marioliu2001/test-deploy/commit/a7b2a2eb0e2781017c919fcc8d197ea5759fbeb4))
+
 ## [0.0.29-alpha.5](https://github.com/marioliu2001/test-deploy/compare/0.0.29-alpha.4...0.0.29-alpha.5) (2024-04-15)
 
 
