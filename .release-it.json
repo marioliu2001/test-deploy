@@ -25,7 +25,8 @@
       },
       "infile": "CHANGELOG.md",
       "ignoreRecommendedBump": true,
-      "strictSemVer": true
+      "strictSemVer": true,
+      "template": "./template.hbs"
     }
   },
   "git": {

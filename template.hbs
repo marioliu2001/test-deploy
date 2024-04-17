@@ -1,0 +1,8 @@
+{{#each commitGroups}}
+  {{#each commits}}
+    {{#if title}}
+      - {{title}}
+      {{#if body}}\n{{body}}{{/if}}
+    {{/if}}
+  {{/each}}
+{{/each}}
