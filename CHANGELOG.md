@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.29-alpha.8](https://github.com/marioliu2001/test-deploy/compare/0.0.29-alpha.7...0.0.29-alpha.8) (2024-04-17)
+
+
+### ✨ Features | 新功能
+
+* **开发:** 测试模板2 ([27623d3](https://github.com/marioliu2001/test-deploy/commit/27623d32754b0699bd44446c98c6edbc2048fa50))
+
 ## [0.0.29-alpha.7](https://github.com/marioliu2001/test-deploy/compare/0.0.29-alpha.5...0.0.29-alpha.7) (2024-04-17)
 
 
