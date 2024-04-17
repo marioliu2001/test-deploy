@@ -1,8 +1,13 @@
-{{#each commitGroups}}
-  {{#each commits}}
-    {{#if title}}
-      - {{title}}
-      {{#if body}}\n{{body}}{{/if}}
-    {{/if}}
-  {{/each}}
+{{#each releases}}
+  {{#if @first}}
+    {{#each merges}}
+      - {{{message}}}{{#if href}} [`#{{id}}`]({{href}}){{/if}}
+    {{/each}}
+    {{#each fixes}}
+      - {{{commit.subject}}}{{#each fixes}}{{#if href}} [`#{{id}}`]({{href}}){{/if}}{{/each}}
+    {{/each}}
+    {{#each commits}}
+      - {{#if breaking}}**Breaking change:** {{/if}}{{{subject}}}{{#if href}} [`{{shorthash}}`]({{href}}){{/if}}
+    {{/each}}
+  {{/if}}
 {{/each}}
