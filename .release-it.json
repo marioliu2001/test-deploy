@@ -26,7 +26,7 @@
       "infile": "CHANGELOG.md",
       "ignoreRecommendedBump": true,
       "strictSemVer": true,
-      "template": "template.hbs"
+      "template": "{{#header}}\n# 变更日志\n{{/header}}{{#body}}{{#features}}## {{subject}}{{scope}}({{type}})\n{{description}}{{/features}}{{#fixes}}### {{subject}}{{scope}}({{type}})\n{{description}}{{/fixes}}{{/body}}"
     }
   },
   "git": {
